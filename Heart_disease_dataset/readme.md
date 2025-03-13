@@ -3,7 +3,7 @@ Data Source: Heart Disease UCI (https://archive.ics.uci.edu/dataset/45/heart+dis
 Instructions for Execution:
 
 1. Setup:
-   - Ensure Python (version X.X or later) is installed.
+   - Ensure Python is installed.
    - Install the required libraries.
    - There are multiple data files inside the heart disease folder, choose processed.cleveland data file and make sure data file and Jupyter Notebook file are in the same folder level.
 
